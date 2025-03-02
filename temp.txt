@@ -1,0 +1,31 @@
+
+Traceback (most recent call last):
+  File "E:\Stock\stock\stockmarkt.py", line 504, in <module>
+    main()
+  File "E:\Stock\stock\stockmarkt.py", line 460, in main
+    stock_data = stock_selection_filter(stock_data)
+  File "E:\Stock\stock\stockmarkt.py", line 307, in stock_selection_filter
+    daily = df.resample('D').agg({
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\resample.py", line 352, in aggregate
+    result = ResamplerWindowApply(self, func, args=args, kwargs=kwargs).agg()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 190, in agg
+    return self.agg_dict_like()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 423, in agg_dict_like
+    return self.agg_or_apply_dict_like(op_name="agg")
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1608, in agg_or_apply_dict_like
+    result_index, result_data = self.compute_dict_like(
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 486, in compute_dict_like
+    key_data = [
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 487, in <listcomp>
+    getattr(selected_obj._ixs(indice, axis=1), op_name)(how, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\series.py", line 4766, in aggregate
+    result = op.agg()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1430, in agg
+    result = super().agg()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 187, in agg
+    return self.apply_str()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 603, in apply_str
+    return self._apply_str(obj, func, *self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 693, in _apply_str
+    return f(*args, **kwargs)
+TypeError: NDFrame.first() missing 1 required positional argument: 'offset'

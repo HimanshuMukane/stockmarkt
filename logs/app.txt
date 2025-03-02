@@ -1,0 +1,4 @@
+Initial portfolio balance: 10000.00
+
+Initial delivery balance: 30000.00
+
