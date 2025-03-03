@@ -14,7 +14,7 @@ from warnings import filterwarnings
 filterwarnings('ignore')
 from numba import njit  
 
-auth_token = "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Ikg4ODUyMiIsInJvbGVzIjowLCJ1c2VydHlwZSI6IlVTRVIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgzUjVjR1VpT2lKamJHbGxiblFpTENKMGIydGxibDkwZVhCbElqb2lkSEpoWkdWZllXTmpaWE56WDNSdmEyVnVJaXdpWjIxZmFXUWlPallzSW5OdmRYSmpaU0k2SWpNaUxDSmtaWFpwWTJWZmFXUWlPaUl3TkRrek1XTmlZeTB3WkRFeExUTmpNelF0WWpOaU5DMDNOakk0TWprMlpEa3hZV0lpTENKcmFXUWlPaUowY21Ga1pWOXJaWGxmZGpJaUxDSnZiVzVsYldGdVlXZGxjbWxrSWpvMkxDSndjbTlrZFdOMGN5STZleUprWlcxaGRDSTZleUp6ZEdGMGRYTWlPaUpoWTNScGRtVWlmU3dpYldZaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMTlMQ0pwYzNNaU9pSjBjbUZrWlY5c2IyZHBibDl6WlhKMmFXTmxJaXdpYzNWaUlqb2lTRGc0TlRJeUlpd2laWGh3SWpveE56UXhNREkzTWpJekxDSnVZbVlpT2pFM05EQTVOREEyTkRNc0ltbGhkQ0k2TVRjME1EazBNRFkwTXl3aWFuUnBJam9pTm1Ga01tSXlaR0V0TUdWbU9DMDBOREpqTFdFNE9UTXRNV1F5TmpObE5UQTVOR1poSWl3aVZHOXJaVzRpT2lJaWZRLm9TREdFSC1IZG0zc25YQkMzcEhoR1A1MFhna204SkZjdEV3bnpBbVhiTzJVZE1VN0x4bWkwdXg5U1J0blZSTmt5amNPaG5ZRjg3WnlieWkzTjZVOFd5Nmd6V2FubWlVTDQ3TUdBbFNybU93dE0wV3N6SGhXdWZqdEhFbnJFRDVnVVdzczQ1NlR6dDJXdkczYXcxZk9BWFRud2tUUlJjQ3J4X0pnR3ZVekFnNCIsIkFQSS1LRVkiOiJwcVpLQzI4NSIsImlhdCI6MTc0MDk0MDgyMywiZXhwIjoxNzQxMDI3MjIzfQ.ttnLNIOgfD96cymuZO1kRUEXlBbU8VeqhrTdUAdj8CnHbXmUZHKUxotsQcx8QlSWgmTqZcQmvXj3Q0kRAkfGZg"
+auth_token = "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Ikg4ODUyMiIsInJvbGVzIjowLCJ1c2VydHlwZSI6IlVTRVIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgzUjVjR1VpT2lKamJHbGxiblFpTENKMGIydGxibDkwZVhCbElqb2lkSEpoWkdWZllXTmpaWE56WDNSdmEyVnVJaXdpWjIxZmFXUWlPallzSW5OdmRYSmpaU0k2SWpNaUxDSmtaWFpwWTJWZmFXUWlPaUl3TkRrek1XTmlZeTB3WkRFeExUTmpNelF0WWpOaU5DMDNOakk0TWprMlpEa3hZV0lpTENKcmFXUWlPaUowY21Ga1pWOXJaWGxmZGpJaUxDSnZiVzVsYldGdVlXZGxjbWxrSWpvMkxDSndjbTlrZFdOMGN5STZleUprWlcxaGRDSTZleUp6ZEdGMGRYTWlPaUpoWTNScGRtVWlmU3dpYldZaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMTlMQ0pwYzNNaU9pSjBjbUZrWlY5c2IyZHBibDl6WlhKMmFXTmxJaXdpYzNWaUlqb2lTRGc0TlRJeUlpd2laWGh3SWpveE56UXhNVEV3TURRMUxDSnVZbVlpT2pFM05ERXdNak0wTmpVc0ltbGhkQ0k2TVRjME1UQXlNelEyTlN3aWFuUnBJam9pT1RKbU16RmtNV1V0T1dRNU9TMDBPR1E1TFdKaU5qY3RNRFZqT1dRNVlqZzRZVE0wSWl3aVZHOXJaVzRpT2lJaWZRLmEwQVo3V0R0ejRrVGNmTnlXbTUtMjZ3UzRpemlUNkxaN0ZmaW1MZkdVd1NGRjB5U0wtNUtLQkZCbjFjV2VEa2lNOU9SQjl0RWloYTJzeGhvRFE5YmxYOENydzZjWENJYWdUekIzWlk0YXQwOEdCLW03RlBWM2Q5WXJDVlhWZnlqT0FxOHRDcFhVbmFyRUR2UGNZd1VWaFJ0VnpPVzFWQmhMTmxyZkc5dExfYyIsIkFQSS1LRVkiOiJwcVpLQzI4NSIsImlhdCI6MTc0MTAyMzY0NSwiZXhwIjoxNzQxMTEwMDQ1fQ.b3L6t8lhSWM69EKYgT6AcWe9q1Gde3OPMfD7qaZLrzeqiuSI8FQlYOjviOhGZ1TvMWQFzMFVE3JFBNO3SJH9cA"
 API_URL = "apiconnect.angelone.in"
 HEADERS = {
   'X-PrivateKey': 'pqZKC285',
@@ -147,8 +147,8 @@ def get_historical_data(auth_token, symboltoken):
         "exchange": "NSE",
         "symboltoken": symboltoken,
         "interval": "ONE_MINUTE",
-        "fromdate": "2025-01-22 09:00",
-        "todate": "2025-02-24 15:30"
+        "fromdate": "2025-03-03 09:00",
+        "todate": "2025-03-03 15:30"
     }
     time.sleep(2)
     response = make_request("POST", "/rest/secure/angelbroking/historical/v1/getCandleData", payload, auth_token)
@@ -157,6 +157,8 @@ def get_historical_data(auth_token, symboltoken):
         return response['data']
     else:
         return None
+# backtest -> list of stocks -> for each stock -> get historical data -> process stock -> check signals -> update signals -> update buy details -> update portfolio balance -> update delivery balance 
+
 
 # def get_historical_data(auth_token, symboltoken):
 #     file_path = os.path.join("stock_data", f"{symboltoken}.json")
@@ -298,7 +300,7 @@ def check_signals(df, user_datetime, last_signal, portfolio_balance, delivery_ba
     return last_signal, buy_details, portfolio_balance, delivery_balance
 
 def stock_selection_filter(stock_data):
-    print(stock_data)
+    # print(stock_data)
     selected_stocks = {}
     for token, df in stock_data.items():
         daily = df.resample('D').agg({
@@ -355,7 +357,7 @@ def main():
             self.terminal.flush()
             self.log.flush()
     sys.stdout = Logger(log_file)
-    content = "FZJ4hJyY6uXw2bkrioEqQkjR1Lq418Bd5ckIbuz3"
+    # content = "FZJ4hJyY6uXw2bkrioEqQkjR1Lq418Bd5ckIbuz3"
     url = 'https://chartink.com/backtest/process'
     condition = {"scan_clause": "( {cash} ( latest rsi( 9 ) > 70 and latest volume > 50000 and latest close >= 200 and latest close <= 5000 and latest close - 1 candle ago close / 1 candle ago close * 100 >= 0.02 ) ) "}
     
@@ -406,8 +408,8 @@ def main():
     print(f"Initial delivery balance: {delivery_balance:.2f}\n")
     delivery_stocks = {} 
     current_stocks = []
-    start_datetime = pd.Timestamp("2025-02-22 09:15")
-    current_datetime = pd.Timestamp.now()
+    start_datetime = pd.Timestamp("2025-03-03 09:15")
+    current_datetime = pd.Timestamp("2025-03-03 03:35")
     while start_datetime != current_datetime:
         if start_datetime.time() == pd.to_datetime('09:15').time():
             current_date = start_datetime.date()
@@ -422,6 +424,8 @@ def main():
             prev_day_stocks = date_to_stocks.get(prev_date, []) if prev_date else []
             stocks_prev = [name_to_token[stock] for stock in prev_day_stocks if stock in name_to_token]
             new_stocks = list(set(stocks_new) - set(stocks_prev))
+            print(f"New stocks for {current_date}: {current_day_stocks}")
+            print(f"Prev stocks for {stocks_prev}: {prev_day_stocks}")
             current_stocks = list(set(new_stocks) | set(delivery_stocks.keys()))
             stock_data = {}
             results = [process_stock(symboltoken) for symboltoken in current_stocks]
