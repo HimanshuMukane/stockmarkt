@@ -1,42 +1,10 @@
 from flask import Flask, render_template, request
 from chartlink.backtest import get_new_stocks
-import http.client
+from automation import login_to_angel_one, livetest_data, process_stock, stock_selection_filter
 import json
-
-API_URL = "apiconnect.angelone.in"
-HEADERS = {
-    'Accept': 'application/json',
-    'X-UserType': 'USER',
-    'X-SourceID': 'WEB',
-    'X-ClientLocalIP': 'CLIENT_LOCAL_IP',
-    'X-ClientPublicIP': 'CLIENT_PUBLIC_IP',
-    'X-MACAddress': 'MAC_ADDRESS',
-    'X-PrivateKey': 'pqZKC285'
-}
-CLIENT_ID = "H88522"
-CLIENT_PIN = "4542"
-STATE_VARIABLE = "live"
-
-JWT_TOKEN = None
-
 app = Flask(__name__)
 
-def login_to_angel_one(totp):
-    conn = http.client.HTTPSConnection(API_URL)
-    payload = json.dumps({
-        "clientcode": CLIENT_ID,
-        "password": CLIENT_PIN,
-        "totp": totp,
-        "state": STATE_VARIABLE
-    })
-    
-    headers = {**HEADERS, 'Content-Type': 'application/json'}
-    conn.request("POST", "/rest/auth/angelbroking/user/v1/loginByPassword", payload, headers)
-
-    res = conn.getresponse()
-    data = res.read().decode("utf-8")
-    return data
-
+JWT_TOKEN = None
 
 @app.route('/')
 def index():
@@ -44,10 +12,31 @@ def index():
 
 @app.route('/changeToken', methods=['POST'])
 def changeToken():
+    global JWT_TOKEN
     totp = request.json.get('totp')
     res = login_to_angel_one(totp)
     if res.get('status') == 'success':
         JWT_TOKEN = res.get('data').get('jwtToken')
+        stock_list = livetest_data()
+        with open('stockList.json', 'r') as file:
+            stock_data = json.load(file)
+            name_to_token = {entry["name"]: entry["token"] for entry in stock_data}
+            global token_to_name
+            token_to_name = {entry["token"]: entry["name"] for entry in stock_data}        
+        stock_data = {}
+        for stock in stock_list:
+            symboltoken, df = process_stock(JWT_TOKEN, stock)
+            if df is not None:
+                stock_data[symboltoken] = df
+        selected_stocks = stock_selection_filter(stock_data)
+
+        # goes to historical data to be searched
+        # result will be send to
+        # Historical
+        # EMA 9 and 21
+        # Supertrend
+        # buy sell
+        # transaction charges
         return {'status': 'success', 'message': 'Token Changed Successfully'}
     return res
 

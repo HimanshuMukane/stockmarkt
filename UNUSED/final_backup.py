@@ -14,7 +14,7 @@ from warnings import filterwarnings
 filterwarnings('ignore')
 from multiprocessing import Pool, cpu_count 
 from numba import njit  
-AUTH_TOKEN = "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Ikg4ODUyMiIsInJvbGVzIjowLCJ1c2VydHlwZSI6IlVTRVIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgzUjVjR1VpT2lKamJHbGxiblFpTENKMGIydGxibDkwZVhCbElqb2lkSEpoWkdWZllXTmpaWE56WDNSdmEyVnVJaXdpWjIxZmFXUWlPallzSW5OdmRYSmpaU0k2SWpNaUxDSmtaWFpwWTJWZmFXUWlPaUl3TkRrek1XTmlZeTB3WkRFeExUTmpNelF0WWpOaU5DMDNOakk0TWprMlpEa3hZV0lpTENKcmFXUWlPaUowY21Ga1pWOXJaWGxmZGpJaUxDSnZiVzVsYldGdVlXZGxjbWxrSWpvMkxDSndjbTlrZFdOMGN5STZleUprWlcxaGRDSTZleUp6ZEdGMGRYTWlPaUpoWTNScGRtVWlmU3dpYldZaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMTlMQ0pwYzNNaU9pSjBjbUZrWlY5c2IyZHBibDl6WlhKMmFXTmxJaXdpYzNWaUlqb2lTRGc0TlRJeUlpd2laWGh3SWpveE56UXdPVFE0TnpNMExDSnVZbVlpT2pFM05EQTROakl4TlRRc0ltbGhkQ0k2TVRjME1EZzJNakUxTkN3aWFuUnBJam9pTUdFNE1UWTRabUV0TW1VMU1pMDBOamRoTFdGbFlUTXRNMlV3WTJWaE1EbGtZamN5SWl3aVZHOXJaVzRpT2lJaWZRLlFWcF9JaTVWQjZ5cHpoRTU5bU9BQWZCVUExMndtUjZHTDFiUlVsLW1aSG9TYVZqTWFCdDlVbWRkblVkaW0tLTU3OC12VWlhZzJSdWY5czduUFpPeGJNX20wWEJ1b1VCUkFuVXl0cGNQUWJvVjJfR1NraElaRnFSZ3ljNW83WklSM1hDR1F4TklrWXpZcTRwc1R2amgtTUo4NGltYXM3cUlIQWRxX0M2ZzhtQSIsIkFQSS1LRVkiOiJwcVpLQzI4NSIsImlhdCI6MTc0MDg2MjMzNCwiZXhwIjoxNzQwOTQ4NzM0fQ.VRMf9hcB2RIaTAMzMKL4kzaiexTW0I-gt28nKJhD09_58RedtxjnoqIUr93H9l9HKHHKIGte5n8_r-ZP2ArY0w"
+AUTH_TOKEN = "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Ikg4ODUyMiIsInJvbGVzIjowLCJ1c2VydHlwZSI6IlVTRVIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgzUjVjR1VpT2lKamJHbGxiblFpTENKMGIydGxibDkwZVhCbElqb2lkSEpoWkdWZllXTmpaWE56WDNSdmEyVnVJaXdpWjIxZmFXUWlPallzSW5OdmRYSmpaU0k2SWpNaUxDSmtaWFpwWTJWZmFXUWlPaUl3TkRrek1XTmlZeTB3WkRFeExUTmpNelF0WWpOaU5DMDNOakk0TWprMlpEa3hZV0lpTENKcmFXUWlPaUowY21Ga1pWOXJaWGxmZGpJaUxDSnZiVzVsYldGdVlXZGxjbWxrSWpvMkxDSndjbTlrZFdOMGN5STZleUprWlcxaGRDSTZleUp6ZEdGMGRYTWlPaUpoWTNScGRtVWlmU3dpYldZaU9uc2ljM1JoZEhWeklqb2lZV04wYVhabEluMTlMQ0pwYzNNaU9pSjBjbUZrWlY5c2IyZHBibDl6WlhKMmFXTmxJaXdpYzNWaUlqb2lTRGc0TlRJeUlpd2laWGh3SWpveE56UXhNakF4T1RZM0xDSnVZbVlpT2pFM05ERXhNVFV6T0Rjc0ltbGhkQ0k2TVRjME1URXhOVE00Tnl3aWFuUnBJam9pT1RKaE56SXhNVFV0TkRRMllpMDBOMlEwTFRrMFpXUXRaakJpTnpBellUVTRNVGRqSWl3aVZHOXJaVzRpT2lJaWZRLmhnWDFvTUUxT3c4VFRYb1hKUXRfSW9GWGNRMHV6SmVoeEhudjZpNWpYeWhwLTJoTHZ5emlsb2NNOHV3WjZtMDJIcWxOQVNVbXF4eXJqc2F1Z3BPMEdzN2p6NlpFVlIyaHg4bUJpOGN2cDhYODhEeTR4elQzTlIxR2RCS1VPczFzUERKYldfX2NXd184aUROWGgwWXFSdXhHNmYzRlhuT1lrOGhFX3E4bmRmdyIsIkFQSS1LRVkiOiJwcVpLQzI4NSIsImlhdCI6MTc0MTExNTU2NywiZXhwIjoxNzQxMjAxOTY3fQ.XR0J4IV7pTQJlDlIqs9Ojxy9dKLAkVW8LWZbwcCcuL93ZURfZHpYGZ61fFkDados_tvj4pVs9VHjKDt_pTlZCg"
 API_URL = "apiconnect.angelone.in"
 HEADERS = {
   'X-PrivateKey': 'pqZKC285',
@@ -202,7 +202,7 @@ def check_signals(df, user_datetime, last_signal, portfolio_balance, delivery_ba
                 avg_close = past_week['close'].mean()
             else:
                 avg_close = current_close
-            if (current_close <= buy_details[0] and user_datetime.time() > pd.to_datetime('15:14').time()):
+            if (current_close <= buy_details[0] and user_datetime.time() > pd.to_datetime('15:14').time() and current_close >= buy_details[0] * 0.97):
                 if current_supertrend == "Green":
                     continue  
                 elif current_supertrend == "Red":
@@ -221,6 +221,15 @@ def check_signals(df, user_datetime, last_signal, portfolio_balance, delivery_ba
                         print(f"Cannot Convert to Delivery, Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (Loss from Buy), Charges: {charges:.2f}")
                         loss_count += 1
                         return "sell", None, portfolio_balance, delivery_balance
+            if (current_close <= buy_details[0] and user_datetime.time() > pd.to_datetime('15:14').time() and current_close < buy_details[0] * 0.97):
+                charges = get_transaction_charges("INTRADAY", "SELL", buy_details[1], current_close, symboltoken, token_to_name.get(symboltoken, symboltoken), AUTH_TOKEN)
+                proceeds = buy_details[1] * current_close
+                net_proceeds = proceeds - charges
+                portfolio_balance += net_proceeds
+                print(f"Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (Loss from Buy), Charges: {charges:.2f}")
+                loss_count += 1
+                return "sell", None, portfolio_balance, delivery_balance
+            
             if (df_filtered['EMA9'].iloc[i-1] >= df_filtered['EMA21'].iloc[i-1] and 
                 df_filtered['EMA9'].iloc[i] < df_filtered['EMA21'].iloc[i]):
                 if current_supertrend == "Red" and current_ema50 >= current_close and current_close >= buy_details[0]:
@@ -231,7 +240,7 @@ def check_signals(df, user_datetime, last_signal, portfolio_balance, delivery_ba
                     print(f"Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (Profit from Buy), Charges: {charges:.2f}")
                     profit_count += 1
                     return "sell", None, portfolio_balance, delivery_balance
-            if buy_details[0] <= current_close * 0.97 and user_datetime.time() > pd.to_datetime('15:10').time():
+            if buy_details[0] <= current_close * 0.97 and user_datetime.time() > pd.to_datetime('15:28').time():
                 proceeds = buy_details[1] * current_close
                 charges = get_transaction_charges("INTRADAY", "SELL", buy_details[1], current_close, symboltoken, token_to_name.get(symboltoken, symboltoken), AUTH_TOKEN)
                 net_proceeds = proceeds - charges
@@ -239,15 +248,15 @@ def check_signals(df, user_datetime, last_signal, portfolio_balance, delivery_ba
                 print(f"Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (Early Profit from Buy), Charges: {charges:.2f}")
                 profit_count += 1
                 return "sell", None, portfolio_balance, delivery_balance
-            if buy_details[0] <= current_close * 0.96:
+            if buy_details[0] <= current_close * 0.85:
                 proceeds = buy_details[1] * current_close
                 charges = get_transaction_charges("INTRADAY", "SELL", buy_details[1], current_close, symboltoken, token_to_name.get(symboltoken, symboltoken), AUTH_TOKEN)
                 net_proceeds = proceeds - charges
                 portfolio_balance += net_proceeds
-                print(f"Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (Early Profit from Buy), Charges: {charges:.2f}")
+                print(f"Sell Signal at {df_filtered.index[i]} - Price: {current_close:.2f}, Shares: {buy_details[1]} of {symboltoken} (High Early Profit from Buy), Charges: {charges:.2f}")
                 profit_count += 1
                 return "sell", None, portfolio_balance, delivery_balance
-            if pd.to_datetime('15:10').time() < user_datetime.time() < pd.to_datetime('15:55').time():
+            if pd.to_datetime('15:28').time() < user_datetime.time() < pd.to_datetime('15:55').time():
                 proceeds = buy_details[1] * current_close
                 if current_close < buy_details[0]:
                     conversion_amount = buy_details[0] * buy_details[1]
@@ -341,7 +350,9 @@ def main():
     sys.stdout = Logger(log_file)
     content = "FZJ4hJyY6uXw2bkrioEqQkjR1Lq418Bd5ckIbuz3"
     url = 'https://chartink.com/backtest/process'
-    condition = {"scan_clause": "( {cash} ( latest rsi( 9 ) > 70 and latest volume > 50000 and latest close >= 200 and latest close <= 5000 and latest close - 1 candle ago close / 1 candle ago close * 100 >= 0.02 ) ) "}
+    condition = {
+        "scan_clause": "( {cash} ( 1 day ago \"close - 1 candle ago close / 1 candle ago close * 100\" < -3 and 1 day ago volume > 20000 and 2 days ago volume > 20000 and 3 days ago volume > 20000 and weekly volume > 50000 and latest \"close - 1 candle ago close / 1 candle ago close * 100\" >= 0.01 and monthly \"close - 1 candle ago close / 1 candle ago close * 100\" > 1 and weekly \"close - 1 candle ago close / 1 candle ago close * 100\" > 1 and latest close >= 300 and latest close <= 5000 ) ) "
+        }
     
     # Caching Chartink data in a temp file
     cache_file = "chartink_cache.json"
@@ -390,7 +401,7 @@ def main():
     print(f"Initial delivery balance: {delivery_balance:.2f}\n")
     delivery_stocks = {} 
     current_stocks = []
-    start_datetime = pd.Timestamp("2025-01-01 09:15")
+    start_datetime = pd.Timestamp("2024-11-01 09:15")
     current_datetime = pd.Timestamp.now()
     while start_datetime <= current_datetime:
         if start_datetime.time() == pd.to_datetime('09:15').time():

@@ -1,0 +1,28 @@
+Initial portfolio balance: 10000.00
+
+Initial delivery balance: 30000.00
+
+Buy Signal at 2024-11-05 09:16:00+05:30 - Price: 1060.95, Shares: 9 of 14339, Charges: 4.02
+Sell Signal at 2024-11-05 13:56:00+05:30 - Price: 1127.90, Shares: 9 of 14339 (Profit from Buy), Charges: 6.51
+Buy Signal at 2024-11-14 09:56:00+05:30 - Price: 3868.10, Shares: 2 of 7982, Charges: 3.26
+Buy Signal at 2024-11-14 10:49:00+05:30 - Price: 1273.40, Shares: 2 of 811, Charges: 1.07
+Sell Signal at 2024-11-14 15:29:00+05:30 - Price: 1288.00, Shares: 2 of 811 (Profit from Buy), Charges: 1.65
+Sell Signal at 2024-11-14 15:29:00+05:30 - Price: 4249.00, Shares: 2 of 7982 (Early Profit from Buy), Charges: 5.45
+Buy Signal at 2024-11-21 09:16:00+05:30 - Price: 906.08, Shares: 12 of 1100, Charges: 4.58
+Sell Signal at 2024-11-21 15:29:00+05:30 - Price: 932.00, Shares: 12 of 1100 (Profit from Buy), Charges: 7.18
+Buy Signal at 2024-12-19 09:26:00+05:30 - Price: 350.66, Shares: 33 of 27213, Charges: 4.88
+Convert to Delivery at 2024-12-19 15:25:00+05:30 - Price: 343.78, Shares: 33 of 27213
+Delivery Sell on Profit at 2024-12-20 09:16:00+05:30 - Price: 358.59, Shares: 33 of 27213, Charges: 26.24
+Buy Signal at 2024-12-30 09:18:00+05:30 - Price: 1634.65, Shares: 14 of 1164, Charges: 9.64
+Sell Signal at 2024-12-30 15:29:00+05:30 - Price: 1725.00, Shares: 14 of 1164 (Early Profit from Buy), Charges: 15.49
+Buy Signal at 2025-01-14 10:14:00+05:30 - Price: 617.00, Shares: 40 of 13982, Charges: 10.40
+Sell Signal at 2025-01-14 13:47:00+05:30 - Price: 617.20, Shares: 40 of 13982 (Profit from Buy), Charges: 15.83
+Buy Signal at 2025-02-19 11:13:00+05:30 - Price: 3862.65, Shares: 6 of 7982, Charges: 9.77
+Cannot Convert to Delivery, Sell Signal at 2025-02-19 15:15:00+05:30 - Price: 3846.00, Shares: 6 of 7982 (Loss from Buy), Charges: 14.80
+Final portfolio balance: 24570.28
+Final delivery balance: 18428.22
+Profit trades: 7 (0.00%)
+Loss trades: 1 (0.00%)
+Delivery trades: 1 (0.00%)
+No trade events: 435009 (100.00%)
+

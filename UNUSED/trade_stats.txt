@@ -1,0 +1,6 @@
+Final portfolio balance: 24570.28
+Final delivery balance: 18428.22
+Profit trades: 7 (0.00%)
+Loss trades: 1 (0.00%)
+Delivery trades: 1 (0.00%)
+No trade events: 435009 (100.00%)

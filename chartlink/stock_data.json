@@ -1,0 +1,2728 @@
+[
+    {
+        "Date": "2024-07-16",
+        "Stock": [
+            "ARTNIRMAN"
+        ]
+    },
+    {
+        "Date": "2024-07-18",
+        "Stock": [
+            "IDBI",
+            "SRM",
+            "RETAIL",
+            "ALMONDZ",
+            "ANKITMETAL"
+        ]
+    },
+    {
+        "Date": "2024-07-19",
+        "Stock": [
+            "GLOBE",
+            "PATINTLOG",
+            "INTENTECH",
+            "CYBERMEDIA"
+        ]
+    },
+    {
+        "Date": "2024-07-22",
+        "Stock": [
+            "LAURUSLABS",
+            "BOMDYEING",
+            "VEEDOL",
+            "BAJAJHIND",
+            "BANCOINDIA",
+            "BEPL",
+            "BIRLACABLE",
+            "KCP",
+            "WHEELS",
+            "BHEL",
+            "HINDPETRO",
+            "IFCI",
+            "SAIL",
+            "IDBI",
+            "MADRASFERT",
+            "GANESHBE",
+            "HSCL",
+            "HCC",
+            "AGI",
+            "INDORAMA",
+            "ATFL",
+            "KIRLOSBROS",
+            "KSB",
+            "MANALIPETC",
+            "MOREPENLAB",
+            "NAHARSPING",
+            "PEL",
+            "ONGC",
+            "OSWALAGRO",
+            "PRIMESECU",
+            "RSWM",
+            "RALLIS",
+            "JINDALSAW",
+            "TATAPOWER",
+            "TIRUMALCHM",
+            "TORNTPHARM",
+            "PASUPTAC",
+            "HINDMOTORS",
+            "BPCL",
+            "TATAMOTORS",
+            "GESHIP",
+            "GRWRHITECH",
+            "NOCIL",
+            "TNPETRO",
+            "EIHOTEL",
+            "CASTROLIND",
+            "GREAVESCOT",
+            "SAURASHCEM",
+            "KESORAMIND",
+            "VTL",
+            "RUBYMILLS",
+            "ZENSARTECH",
+            "SARDAEN",
+            "INDIANHUME",
+            "TALBROAUTO",
+            "GABRIEL",
+            "HERCULES",
+            "GENESYS",
+            "STYRENIX",
+            "ALEMBICLTD",
+            "PCBL",
+            "ASALCBR",
+            "GUFICBIO",
+            "JAYSREETEA",
+            "INDBANK",
+            "SAMBHAAV",
+            "GICHSGFIN",
+            "GMRP&UI",
+            "DONEAR",
+            "STCINDIA",
+            "KEYFINSERV",
+            "NAVA",
+            "VENUSPIPES",
+            "SBCL",
+            "MANINDS",
+            "AJMERA",
+            "MMTC",
+            "HIMATSEIDE",
+            "GANECOS",
+            "ADORWELD",
+            "HBLENGINE",
+            "GIPCL",
+            "MINDTECK",
+            "HAVELLS",
+            "SYMPHONY",
+            "HDFCMOMENT",
+            "DCXINDIA",
+            "PVP",
+            "KAYNES",
+            "KFINTECH",
+            "RICOAUTO",
+            "TRANSWORLD",
+            "ICIL",
+            "MARALOVER",
+            "SURYALAXMI",
+            "AARTIPHARM",
+            "KITEX",
+            "UNIDT",
+            "MAYURUNIQ",
+            "RAMRAT",
+            "SAFARI",
+            "BALMLAWRIE",
+            "DCMSHRIRAM",
+            "DCMSRIND",
+            "JMFINANCIL",
+            "MKPL",
+            "MASTEK",
+            "DVL",
+            "CYIENTDLM",
+            "KABRAEXTRU",
+            "AARTIIND",
+            "KOTARISUG",
+            "BCLIND",
+            "BODALCHEM",
+            "DPSCLTD",
+            "VIMTALABS",
+            "BIOFILCHEM",
+            "ATL",
+            "VPRPL",
+            "INDOAMIN",
+            "HIKAL",
+            "HITECH",
+            "ZAGGLE",
+            "JSWINFRA",
+            "FILATEX",
+            "KRITI",
+            "MAXESTATES",
+            "MANOMAY",
+            "CELLO",
+            "DEVIT",
+            "GEEKAYWIRE",
+            "CCHHL",
+            "TPLPLASTEH",
+            "SERVOTECH",
+            "LIBERTSHOE",
+            "CAPACITE",
+            "GOLDIAM",
+            "DOMS",
+            "GREENPLY",
+            "GICRE",
+            "KHADIM",
+            "NIACL",
+            "AJOONI",
+            "NOVAAGRI",
+            "THEMISMED",
+            "SUVEN",
+            "TARACHAND",
+            "KOTHARIPRO",
+            "VSTL",
+            "AVG",
+            "GPTHEALTH",
+            "UGARSUGAR",
+            "PLATIND",
+            "MUKKA",
+            "SCILAL",
+            "ZIMLAB",
+            "STERTOOLS",
+            "KRITIKA",
+            "ABSLPSE",
+            "ALANKIT",
+            "OMINFRAL",
+            "STANLEY",
+            "BYKE",
+            "RITCO",
+            "SHAKTIPUMP",
+            "GRMOVER",
+            "INDIAMART",
+            "MGEL",
+            "AGARIND",
+            "BORORENEW",
+            "SUVENPHAR",
+            "ACL",
+            "WELCORP",
+            "GAIL",
+            "CYBERTECH",
+            "SONATSOFTW",
+            "NATIONALUM",
+            "APARINDS",
+            "WOCKPHARMA",
+            "ZYDUSLIFE",
+            "IZMO",
+            "STLTECH",
+            "BALAJITELE",
+            "IOB",
+            "AXISCADES",
+            "MEGASOFT",
+            "GRANULES",
+            "UCOBANK",
+            "SUPRAJIT",
+            "ULTRACEMCO",
+            "WELENT",
+            "NTPC",
+            "POCL",
+            "GOKEX",
+            "SPLIL",
+            "MCLEODRUSS",
+            "HTMEDIA",
+            "AURIONPRO",
+            "BASML",
+            "EKC",
+            "NITINSPIN",
+            "SADBHAV",
+            "BLKASHYAP",
+            "MALUPAPER",
+            "PFOCUS",
+            "GMRAIRPORT",
+            "TECHM",
+            "DEEPINDS",
+            "SRHHYPOLTD",
+            "INSECTICID",
+            "TIMETECHNO",
+            "DLF",
+            "ADSL",
+            "ASIANTILES",
+            "BVCL",
+            "TARIL",
+            "BANG",
+            "LOTUSEYE",
+            "TPHQ",
+            "DLINKINDIA",
+            "ROSSELLIND",
+            "PERSISTENT",
+            "SJVN",
+            "GPPL",
+            "GREENPOWER",
+            "ASHOKA",
+            "COALINDIA",
+            "GRAVITA",
+            "PSB",
+            "LOVABLE",
+            "RUPA",
+            "VASWANI",
+            "HEMIPROP",
+            "NBCC",
+            "LYPSAGEMS",
+            "TARC",
+            "AWHCL",
+            "PROZONER",
+            "ZUARI",
+            "PCJEWELLER",
+            "REPCOHOME",
+            "DODLA",
+            "CPSEETF",
+            "CHEMPLASTS",
+            "ABSLAMC",
+            "SNOWMAN",
+            "SJS",
+            "LATENTVIEW",
+            "GENUSPAPER",
+            "BALKRISHNA",
+            "OSWALGREEN",
+            "VETO",
+            "SHREEPUSHK",
+            "SATIN",
+            "INDIGO",
+            "LUXIND",
+            "GOKULAGRO",
+            "BHARATWIRE",
+            "INFIBEAM",
+            "BAJAJHCARE",
+            "PARAGMILK",
+            "BIGBLOC",
+            "BLS"
+        ]
+    },
+    {
+        "Date": "2024-07-23",
+        "Stock": [
+            "ELECTCAST",
+            "PARASPETRO",
+            "SIMPLEXINF",
+            "DNAMEDIA",
+            "FAZE3Q",
+            "AKSHOPTFBR"
+        ]
+    },
+    {
+        "Date": "2024-07-24",
+        "Stock": [
+            "SPIC",
+            "CENTEXT",
+            "IDBI",
+            "MADRASFERT",
+            "GODFRYPHLP",
+            "HFCL",
+            "AGI",
+            "KIRLOSBROS",
+            "GESHIP",
+            "BANSWRAS",
+            "KHAICHEM",
+            "RUCHINFRA",
+            "JAYSREETEA",
+            "CAPTRUST",
+            "SEQUENT",
+            "LICI",
+            "HBLENGINE",
+            "ROTO",
+            "NAHARINDUS",
+            "BLAL",
+            "WANBURY",
+            "GICRE",
+            "NIACL",
+            "MMP",
+            "SCILAL",
+            "DCMNVL",
+            "CYBERMEDIA",
+            "EKC",
+            "KERNEX",
+            "NITINSPIN",
+            "MALUPAPER",
+            "INDIANB",
+            "BVCL",
+            "ARIES",
+            "RECLTD",
+            "LOTUSEYE",
+            "MANINFRA",
+            "OBEROIRLTY",
+            "RPPINFRA",
+            "PSB",
+            "LOVABLE",
+            "APLLTD",
+            "VASWANI",
+            "NBCC",
+            "NECCLTD",
+            "TARC",
+            "ZUARI",
+            "VINEETLAB",
+            "SHEMAROO",
+            "GENCON",
+            "PNBHOUSING"
+        ]
+    },
+    {
+        "Date": "2024-07-25",
+        "Stock": [
+            "HUHTAMAKI",
+            "TRACXN",
+            "GODREJCP",
+            "MANAKCOAT"
+        ]
+    },
+    {
+        "Date": "2024-07-26",
+        "Stock": [
+            "MADRASFERT",
+            "IONEXCHANG",
+            "NIITLTD",
+            "BANSWRAS",
+            "HEUBACHIND",
+            "INDSWFTLTD",
+            "SONAMLTD",
+            "CHALET",
+            "BORORENEW",
+            "WELCORP",
+            "SONATSOFTW",
+            "MAHLIFE",
+            "SHEMAROO",
+            "PDSL",
+            "SPORTKING"
+        ]
+    },
+    {
+        "Date": "2024-07-29",
+        "Stock": [
+            "BASF",
+            "AYMSYNTEX",
+            "GUJRAFFIA",
+            "RVNL",
+            "BGLOBAL",
+            "RADHIKAJWE"
+        ]
+    },
+    {
+        "Date": "2024-07-30",
+        "Stock": [
+            "LAMBODHARA",
+            "FAZE3Q",
+            "MARINE",
+            "SUVENPHAR",
+            "ENERGYDEV",
+            "CYBERMEDIA",
+            "INDOTECH",
+            "RPGLIFE"
+        ]
+    },
+    {
+        "Date": "2024-07-31",
+        "Stock": [
+            "RAJRATAN",
+            "WANBURY",
+            "LAXMICOT",
+            "OMINFRAL",
+            "INDSWFTLAB",
+            "APLLTD"
+        ]
+    },
+    {
+        "Date": "2024-08-01",
+        "Stock": [
+            "DEEPAKFERT",
+            "NEULANDLAB",
+            "COMPINFO",
+            "SGL",
+            "SETUINFRA"
+        ]
+    },
+    {
+        "Date": "2024-08-02",
+        "Stock": [
+            "PRUDMOULI",
+            "AARVEEDEN",
+            "WEBELSOLAR",
+            "WANBURY",
+            "GLOBAL",
+            "GENUSPOWER",
+            "AFFLE",
+            "WOCKPHARMA",
+            "MANGALAM",
+            "NITCO",
+            "BANG",
+            "NIRAJ",
+            "TARAPUR",
+            "TDPOWERSYS",
+            "VASWANI",
+            "INOXWIND",
+            "SPORTKING",
+            "OSWALGREEN",
+            "VETO"
+        ]
+    },
+    {
+        "Date": "2024-08-05",
+        "Stock": [
+            "INSECTICID"
+        ]
+    },
+    {
+        "Date": "2024-08-06",
+        "Stock": [
+            "BASF",
+            "DCW",
+            "GODFRYPHLP",
+            "HSCL",
+            "SPMLINFRA",
+            "PASUPTAC",
+            "DEEPAKFERT",
+            "EXCELINDUS",
+            "CEATLTD",
+            "RUBYMILLS",
+            "NESCO",
+            "GABRIEL",
+            "IFBIND",
+            "MODISONLTD",
+            "HEUBACHIND",
+            "JAYSREETEA",
+            "VLSFINANCE",
+            "ARIHANTCAP",
+            "GMRP&UI",
+            "MAHASTEEL",
+            "SALZERELEC",
+            "HBLENGINE",
+            "BIKAJI",
+            "KFINTECH",
+            "ELIN",
+            "NAGREEKEXP",
+            "KITEX",
+            "SAFARI",
+            "AMBICAAGAR",
+            "ORCHPHARMA",
+            "ERIS",
+            "AKASH",
+            "NATCOPHARM",
+            "JITFINFRA",
+            "ASKAUTOLTD",
+            "SERVOTECH",
+            "ARENTERP",
+            "GOLDIAM",
+            "MUFTI",
+            "DNAMEDIA",
+            "MOKSH",
+            "CLSEL",
+            "MMP",
+            "RPPL",
+            "SKYGOLD",
+            "MANORAMA",
+            "VINNY",
+            "AWFIS",
+            "EVEREADY",
+            "AFFLE",
+            "GREENPANEL",
+            "TCI",
+            "CEREBRAINT",
+            "RKFORGE",
+            "STAR",
+            "MANGALAM",
+            "PARSVNATH",
+            "REFEX",
+            "SELMC",
+            "BANG",
+            "GOKUL",
+            "RUSHIL",
+            "GPTINFRA",
+            "SCHNEIDER",
+            "TBZ",
+            "JTLIND",
+            "BECTORFOOD",
+            "HOMEFIRST",
+            "STOVEKRAFT",
+            "LXCHEM",
+            "SHYAMMETL",
+            "INCREDIBLE",
+            "IMAGICAA",
+            "AIIL",
+            "SHK",
+            "PNBHOUSING"
+        ]
+    },
+    {
+        "Date": "2024-08-07",
+        "Stock": [
+            "SHAILY",
+            "HIRECT",
+            "PVP",
+            "DHARMAJ",
+            "WINDMACHIN",
+            "JOCIL",
+            "BALPHARMA",
+            "KRITI",
+            "RPTECH",
+            "NILAINFRA",
+            "INDOSTAR",
+            "ALICON",
+            "KHANDSE",
+            "ROSSARI",
+            "POKARNA",
+            "MORARJEE",
+            "SADBHAV",
+            "GALLANTT",
+            "DEEPINDS",
+            "JHS",
+            "SHIVAMAUTO",
+            "20MICRONS",
+            "HEXATRADEX",
+            "LYPSAGEMS",
+            "RVHL",
+            "SKIPPER",
+            "GULFOILLUB"
+        ]
+    },
+    {
+        "Date": "2024-08-08",
+        "Stock": [
+            "GOKULAGRO"
+        ]
+    },
+    {
+        "Date": "2024-08-09",
+        "Stock": [
+            "KOTHARIPET",
+            "PAKKA",
+            "GHCLTEXTIL",
+            "LASA",
+            "MUFTI",
+            "RCOM",
+            "PARSVNATH",
+            "SETUINFRA",
+            "BAJAJHCARE"
+        ]
+    },
+    {
+        "Date": "2024-08-12",
+        "Stock": [
+            "UNICHEMLAB",
+            "KITEX",
+            "HATSUN",
+            "BCG",
+            "TAJGVK",
+            "POCL",
+            "SMSPHARMA",
+            "ORTEL"
+        ]
+    },
+    {
+        "Date": "2024-08-13",
+        "Stock": [
+            "DCMFINSERV",
+            "VAISHALI",
+            "NAM-INDIA"
+        ]
+    },
+    {
+        "Date": "2024-08-14",
+        "Stock": [
+            "EPL",
+            "UFLEX",
+            "INDIAGLYCO",
+            "GOCLCORP",
+            "PCBL",
+            "SEQUENT",
+            "SUBROS",
+            "TIPSFILMS",
+            "RAMRAT",
+            "POLYPLEX",
+            "YATHARTH",
+            "MARKSANS",
+            "POKARNA",
+            "RCOM",
+            "FSL",
+            "HDIL",
+            "EDELWEISS",
+            "KRITINUT",
+            "BECTORFOOD",
+            "AURUM",
+            "POWERMECH",
+            "QUICKHEAL"
+        ]
+    },
+    {
+        "Date": "2024-08-16",
+        "Stock": [
+            "DALMIASUG",
+            "MIRCELECTR",
+            "GMRP&UI",
+            "HINDCOPPER",
+            "RSSOFTWARE",
+            "WEBELSOLAR",
+            "PRAJIND",
+            "AMBICAAGAR",
+            "NETWEB",
+            "AVADHSUGAR",
+            "WIPL",
+            "MAXESTATES",
+            "AIRAN",
+            "VINNY",
+            "BHAGCHEM",
+            "POCL",
+            "SUZLON",
+            "KERNEX",
+            "OIL",
+            "SHARDAMOTR",
+            "SUPRIYA"
+        ]
+    },
+    {
+        "Date": "2024-08-19",
+        "Stock": [
+            "GABRIEL",
+            "TI",
+            "VARDMNPOLY",
+            "DIGIDRIVE",
+            "SKYGOLD",
+            "WEL",
+            "GALLANTT",
+            "HUBTOWN",
+            "RUSHIL",
+            "HEXATRADEX",
+            "SHYAMMETL",
+            "OSWALGREEN",
+            "BAJAJHCARE"
+        ]
+    },
+    {
+        "Date": "2024-08-20",
+        "Stock": [
+            "BASF",
+            "SGIL",
+            "SUVENPHAR",
+            "LUXIND"
+        ]
+    },
+    {
+        "Date": "2024-08-21",
+        "Stock": [
+            "SETCO",
+            "MANUGRAPH",
+            "SUBROS",
+            "KITEX",
+            "VLEGOV",
+            "MAXESTATES",
+            "DIGIDRIVE",
+            "JYOTICNC",
+            "GRMOVER",
+            "TRIVENI",
+            "AURIONPRO",
+            "SGL",
+            "FSL",
+            "AMDIND",
+            "VASWANI",
+            "IMAGICAA",
+            "SADBHIN"
+        ]
+    },
+    {
+        "Date": "2024-08-22",
+        "Stock": [
+            "ORIENTCER",
+            "MURUDCERA",
+            "RSSOFTWARE",
+            "MAHAPEXLTD",
+            "MANKIND",
+            "BLSE",
+            "ISEC"
+        ]
+    },
+    {
+        "Date": "2024-08-23",
+        "Stock": [
+            "NDLVENTURE",
+            "LYKALABS",
+            "BOROLTD",
+            "CAPTRUST",
+            "GMRP&UI",
+            "UMAEXPORTS",
+            "NAGREEKEXP",
+            "DIGIDRIVE",
+            "KERNEX",
+            "GALLANTT",
+            "HOVS",
+            "HGS",
+            "SEPC",
+            "LOTUSEYE"
+        ]
+    },
+    {
+        "Date": "2024-08-26",
+        "Stock": [
+            "SUNDARMFIN",
+            "GODFRYPHLP",
+            "PHOENIXLTD",
+            "GENESYS",
+            "ETHOSLTD",
+            "PEARLPOLY",
+            "PANACEABIO",
+            "ISFT"
+        ]
+    },
+    {
+        "Date": "2024-08-27",
+        "Stock": [
+            "OSWALAGRO",
+            "MODISONLTD",
+            "GULPOLY",
+            "AVADHSUGAR",
+            "MAGADSUGAR",
+            "GOLDIAM",
+            "PARSVNATH",
+            "NIRAJ",
+            "PAYTM",
+            "BALKRISHNA"
+        ]
+    },
+    {
+        "Date": "2024-08-28",
+        "Stock": [
+            "SHAILY",
+            "RANEHOLDIN",
+            "AAREYDRUGS",
+            "JETFREIGHT",
+            "MAXESTATES",
+            "RPSGVENT",
+            "SYNGENE"
+        ]
+    },
+    {
+        "Date": "2024-08-29",
+        "Stock": [
+            "RUBYMILLS",
+            "PRAKASH",
+            "VARDMNPOLY",
+            "ANIKINDS",
+            "WANBURY",
+            "AXISCADES",
+            "ISFT"
+        ]
+    },
+    {
+        "Date": "2024-08-30",
+        "Stock": [
+            "NIITLTD",
+            "OSWALAGRO",
+            "TATAELXSI",
+            "UCAL",
+            "ZUARIIND",
+            "DHARMAJ",
+            "KFINTECH",
+            "WINDMACHIN",
+            "VLEGOV",
+            "GLOBAL",
+            "MOKSH",
+            "REPL",
+            "AVROIND",
+            "TEMBO",
+            "SPENCERS",
+            "PRAENG",
+            "WOCKPHARMA",
+            "DATAMATICS",
+            "ALLDIGI",
+            "SEPC",
+            "TBZ",
+            "DBL"
+        ]
+    },
+    {
+        "Date": "2024-09-02",
+        "Stock": [
+            "AAREYDRUGS",
+            "WORTH",
+            "TIRUPATIFL",
+            "GOENKA",
+            "MONTECARLO"
+        ]
+    },
+    {
+        "Date": "2024-09-03",
+        "Stock": [
+            "BLUEJET",
+            "MEGASOFT",
+            "BAGFILMS",
+            "NRL"
+        ]
+    },
+    {
+        "Date": "2024-09-04",
+        "Stock": [
+            "RELINFRA",
+            "WEBELSOLAR",
+            "SYNCOMF",
+            "RHFL",
+            "ADSL",
+            "GOENKA",
+            "KCPSUGIND"
+        ]
+    },
+    {
+        "Date": "2024-09-05",
+        "Stock": [
+            "GODFRYPHLP",
+            "GRWRHITECH",
+            "TI",
+            "EMMBI"
+        ]
+    },
+    {
+        "Date": "2024-09-06",
+        "Stock": [
+            "BAGFILMS",
+            "GLOBUSSPR",
+            "VRLLOG"
+        ]
+    },
+    {
+        "Date": "2024-09-09",
+        "Stock": [
+            "HEADSUP",
+            "GFLLIMITED",
+            "MOREPENLAB",
+            "PASUPTAC",
+            "FEDERALBNK",
+            "SAURASHCEM",
+            "TI",
+            "JAYSREETEA",
+            "SHAHALLOYS",
+            "SUPERSPIN",
+            "INDOBORAX",
+            "AMBER",
+            "JGCHEM",
+            "INDOSTAR",
+            "GAYAHWS",
+            "TREJHARA",
+            "OFSS",
+            "DLF",
+            "ALPA",
+            "SUPREMEINF",
+            "RGL",
+            "DLINKINDIA",
+            "LTF",
+            "APLLTD",
+            "SHYAMMETL",
+            "PAYTM"
+        ]
+    },
+    {
+        "Date": "2024-09-10",
+        "Stock": [
+            "NDLVENTURE",
+            "BIKAJI",
+            "AADHARHFC",
+            "CALSOFT",
+            "LTFOODS",
+            "REFEX",
+            "EDELWEISS",
+            "VASWANI",
+            "BECTORFOOD",
+            "CARTRADE",
+            "APTUS"
+        ]
+    },
+    {
+        "Date": "2024-09-11",
+        "Stock": [
+            "SHAHALLOYS",
+            "KITEX"
+        ]
+    },
+    {
+        "Date": "2024-09-12",
+        "Stock": [
+            "JINDALSAW",
+            "BLISSGVS",
+            "SEQUENT",
+            "AETHER",
+            "MOTHERSON",
+            "IOLCP",
+            "INDOBORAX",
+            "SYNCOMF",
+            "INDOAMIN",
+            "UDS",
+            "GUJALKALI",
+            "TEMBO",
+            "SILGO",
+            "IRISDOREME",
+            "SUMICHEM",
+            "ZENITHSTL",
+            "MSPL",
+            "KAMDHENU",
+            "GLOBALVECT",
+            "RGL",
+            "LTF",
+            "EPIGRAL",
+            "BEARDSELL",
+            "RADHIKAJWE"
+        ]
+    },
+    {
+        "Date": "2024-09-13",
+        "Stock": [
+            "PIONEEREMB",
+            "DVL",
+            "CLEDUCATE",
+            "SALASAR",
+            "RHFL",
+            "DPABHUSHAN",
+            "REPL",
+            "BALUFORGE",
+            "VRAJ",
+            "INTERARCH",
+            "DHUNINV",
+            "FLEXITUFF",
+            "OSWALGREEN"
+        ]
+    },
+    {
+        "Date": "2024-09-16",
+        "Stock": [
+            "PRSMJOHNSN",
+            "SPMLINFRA",
+            "HINDNATGLS",
+            "BUTTERFLY",
+            "STERTOOLS",
+            "ZOMATO"
+        ]
+    },
+    {
+        "Date": "2024-09-17",
+        "Stock": [
+            "VARDMNPOLY",
+            "BIKAJI",
+            "WANBURY",
+            "GODREJPROP",
+            "BECTORFOOD",
+            "INOXWIND"
+        ]
+    },
+    {
+        "Date": "2024-09-18",
+        "Stock": [
+            "SIGIND",
+            "BIOFILCHEM",
+            "OPTIEMUS",
+            "HARDWYN"
+        ]
+    },
+    {
+        "Date": "2024-09-19",
+        "Stock": [
+            "ARIHANTCAP",
+            "DVL",
+            "SUNCLAY",
+            "RITES",
+            "LTFOODS",
+            "ATALREAL",
+            "SONACOMS"
+        ]
+    },
+    {
+        "Date": "2024-09-20",
+        "Stock": [
+            "ESTER",
+            "PRSMJOHNSN",
+            "SPMLINFRA",
+            "UNIENTER",
+            "PCBL",
+            "SUDARSCHEM",
+            "GMRP&UI",
+            "BHAGYANGR",
+            "KOHINOOR",
+            "SBCL",
+            "SUPERSPIN",
+            "MENONBE",
+            "JAYAGROGN",
+            "BIOFILCHEM",
+            "BSE",
+            "JSWINFRA",
+            "EIFFL",
+            "KRITI",
+            "SALASAR",
+            "WORTH",
+            "JASH",
+            "INNOVACAP",
+            "HARDWYN",
+            "DANGEE",
+            "TREJHARA",
+            "INTERARCH",
+            "RADICO",
+            "IIFL",
+            "ASMS",
+            "TORNTPOWER",
+            "HUBTOWN",
+            "JAIBALAJI",
+            "NURECA",
+            "NUVOCO",
+            "AMIORG",
+            "SJS",
+            "CMSINFO",
+            "MINDACORP",
+            "MANAKSTEEL",
+            "OSWALGREEN",
+            "BEARDSELL",
+            "NINSYS",
+            "NAGAFERT"
+        ]
+    },
+    {
+        "Date": "2024-09-23",
+        "Stock": [
+            "INFOMEDIA",
+            "VCL",
+            "STAR",
+            "MBECL",
+            "NDL",
+            "KEC",
+            "TFL",
+            "MICEL",
+            "REFEX",
+            "TAKE"
+        ]
+    },
+    {
+        "Date": "2024-09-24",
+        "Stock": [
+            "INTERARCH",
+            "SINDHUTRAD"
+        ]
+    },
+    {
+        "Date": "2024-09-25",
+        "Stock": [
+            "NDLVENTURE",
+            "SBCL",
+            "JCHAC",
+            "AMBER",
+            "BHARTIHEXA"
+        ]
+    },
+    {
+        "Date": "2024-09-26",
+        "Stock": [
+            "JINDALSAW",
+            "MOTISONS",
+            "CLSEL",
+            "SKYGOLD",
+            "SINDHUTRAD",
+            "SADBHAV"
+        ]
+    },
+    {
+        "Date": "2024-09-27",
+        "Stock": [
+            "VIPIND",
+            "NLCINDIA",
+            "PRECWIRE",
+            "GLOBE",
+            "OPTIEMUS",
+            "AADHARHFC",
+            "VRAJ",
+            "SPENCERS",
+            "NDRAUTO",
+            "PALREDTEC",
+            "KPRMILL",
+            "VASWANI",
+            "MANAKCOAT",
+            "BALKRISHNA"
+        ]
+    },
+    {
+        "Date": "2024-09-30",
+        "Stock": [
+            "BSE",
+            "63MOONS",
+            "RETAIL",
+            "SAREGAMA",
+            "VIJAYA",
+            "SKIPPER",
+            "PAYTM"
+        ]
+    },
+    {
+        "Date": "2024-10-01",
+        "Stock": [
+            "GAYAHWS",
+            "BAGFILMS",
+            "JPASSOCIAT",
+            "ANKITMETAL",
+            "HDIL"
+        ]
+    },
+    {
+        "Date": "2024-10-04",
+        "Stock": [
+            "FIBERWEB",
+            "MUNJALAU",
+            "DIACABS",
+            "MANGCHEFER",
+            "SRPL",
+            "SETUINFRA"
+        ]
+    },
+    {
+        "Date": "2024-10-07",
+        "Stock": [
+            "ROLTA",
+            "NUVAMA",
+            "LEXUS",
+            "ICEMAKE",
+            "AMBER",
+            "ATALREAL",
+            "MAXIND"
+        ]
+    },
+    {
+        "Date": "2024-10-08",
+        "Stock": [
+            "LAURUSLABS",
+            "GINNIFILA",
+            "BEML",
+            "OAL",
+            "RADAAN",
+            "JINDALPOLY",
+            "ORIENTHOT",
+            "PILITA",
+            "PRIMESECU",
+            "HARRMALAYA",
+            "TATACHEM",
+            "TATAINVEST",
+            "SARDAEN",
+            "KIRLPNU",
+            "HERCULES",
+            "STYRENIX",
+            "JAGSNPHARM",
+            "MONARCH",
+            "ARIHANTCAP",
+            "SECURKLOUD",
+            "LLOYDSME",
+            "AJMERA",
+            "HIMATSEIDE",
+            "GANECOS",
+            "PREMIERPOL",
+            "ANANTRAJ",
+            "WEBELSOLAR",
+            "ADFFOODS",
+            "HAVISHA",
+            "KELLTONTEC",
+            "MUNJALAU",
+            "SAH",
+            "TRANSWORLD",
+            "AVALON",
+            "KABRAEXTRU",
+            "GAEL",
+            "YATHARTH",
+            "REDTAPE",
+            "BSE",
+            "VPRPL",
+            "EMSLIMITED",
+            "UDS",
+            "DCAL",
+            "GANESHHOUC",
+            "MCL",
+            "SERVOTECH",
+            "GOLDIAM",
+            "DOMS",
+            "JASH",
+            "DPABHUSHAN",
+            "63MOONS",
+            "SARLAPOLY",
+            "NAM-INDIA",
+            "ASHOKAMET",
+            "SRPL",
+            "SHIVAMILLS",
+            "TARACHAND",
+            "GENUSPOWER",
+            "KAPSTON",
+            "MUKKA",
+            "GOPAL",
+            "SHILPAMED",
+            "SONAMLTD",
+            "MANORAMA",
+            "SILGO",
+            "CHOICEIN",
+            "INTERARCH",
+            "ORIENTTECH",
+            "RITCO",
+            "SHAKTIPUMP",
+            "GALAPREC",
+            "VIKASLIFE",
+            "WEL",
+            "360ONE",
+            "IIFLCAPS",
+            "ANGELONE",
+            "ADROITINFO",
+            "GMDCLTD",
+            "GRANULES",
+            "STAR",
+            "CYBERMEDIA",
+            "HTMEDIA",
+            "ASMS",
+            "NITCO",
+            "DEEPINDS",
+            "NETWORK18",
+            "PGIL",
+            "TGBHOTELS",
+            "TIMETECHNO",
+            "ADSL",
+            "PURVA",
+            "MOTILALOFS",
+            "MAGNUM",
+            "MAANALU",
+            "TARIL",
+            "DHANI",
+            "KIRIINDUS",
+            "BIRLAMONEY",
+            "JAIBALAJI",
+            "GOKUL",
+            "EMMBI",
+            "AHLEAST",
+            "ASHOKA",
+            "OBEROIRLTY",
+            "ZEELEARN",
+            "BFINVEST",
+            "YAARI",
+            "WINDLAS",
+            "CARTRADE",
+            "SKIPPER",
+            "SJS",
+            "PAYTM",
+            "DATAPATTNS",
+            "BEARDSELL",
+            "PRECAM",
+            "PDMJEPAPER",
+            "PARAGMILK",
+            "BIGBLOC",
+            "BLS"
+        ]
+    },
+    {
+        "Date": "2024-10-09",
+        "Stock": [
+            "ROLLT",
+            "AUSOMENT",
+            "ATALREAL"
+        ]
+    },
+    {
+        "Date": "2024-10-10",
+        "Stock": [
+            "HLVLTD",
+            "LCCINFOTEC",
+            "RPTECH"
+        ]
+    },
+    {
+        "Date": "2024-10-11",
+        "Stock": [
+            "CLSEL",
+            "ADROITINFO",
+            "CYBERMEDIA"
+        ]
+    },
+    {
+        "Date": "2024-10-14",
+        "Stock": [
+            "SBGLP",
+            "MAANALU"
+        ]
+    },
+    {
+        "Date": "2024-10-15",
+        "Stock": [
+            "GFLLIMITED",
+            "IIFLCAPS"
+        ]
+    },
+    {
+        "Date": "2024-10-16",
+        "Stock": [
+            "BOMDYEING",
+            "SJS"
+        ]
+    },
+    {
+        "Date": "2024-10-17",
+        "Stock": [
+            "MANCREDIT",
+            "REDTAPE",
+            "SBGLP",
+            "AKSHOPTFBR",
+            "YAARI"
+        ]
+    },
+    {
+        "Date": "2024-10-18",
+        "Stock": [
+            "DCW",
+            "PILITA",
+            "RALLIS",
+            "FINPIPE",
+            "NESCO",
+            "GUFICBIO",
+            "SHIVATEX",
+            "MONARCH",
+            "AJMERA",
+            "SALZERELEC",
+            "USHAMART",
+            "PPLPHARMA",
+            "WEBELSOLAR",
+            "MUNJALAU",
+            "VPRPL",
+            "GOLDIAM",
+            "JUBLPHARMA",
+            "EPACK",
+            "SKYGOLD",
+            "MANORAMA",
+            "WOCKPHARMA",
+            "PARSVNATH",
+            "ADSL",
+            "MOTILALOFS",
+            "SJS"
+        ]
+    },
+    {
+        "Date": "2024-10-21",
+        "Stock": [
+            "KIRLPNU",
+            "VMART",
+            "ORIENTCEM",
+            "RPEL"
+        ]
+    },
+    {
+        "Date": "2024-10-23",
+        "Stock": [
+            "RADAAN",
+            "DEEPAKFERT",
+            "TTL",
+            "VISHNU",
+            "PPLPHARMA",
+            "YATHARTH",
+            "TEJASNET",
+            "THEINVEST",
+            "AMBER",
+            "TARACHAND",
+            "TIPSMUSIC",
+            "UMESLTD",
+            "SAMPANN",
+            "CARERATING",
+            "PAYTM",
+            "RPEL"
+        ]
+    },
+    {
+        "Date": "2024-10-25",
+        "Stock": [
+            "TAINWALCHM"
+        ]
+    },
+    {
+        "Date": "2024-10-28",
+        "Stock": [
+            "BOMDYEING",
+            "ATUL",
+            "GINNIFILA",
+            "BEML",
+            "OAL",
+            "DCW",
+            "HINDZINC",
+            "NDLVENTURE",
+            "ATFL",
+            "JINDALPOLY",
+            "KIRLOSBROS",
+            "PATANJALI",
+            "GRWRHITECH",
+            "TATACHEM",
+            "FINPIPE",
+            "GREAVESCOT",
+            "BOROLTD",
+            "ROLLT",
+            "UNICHEMLAB",
+            "JAGSNPHARM",
+            "GUFICBIO",
+            "ARIHANTCAP",
+            "MUTHOOTCAP",
+            "ORBTEXP",
+            "SBCL",
+            "PARADEEP",
+            "PENIND",
+            "JYOTISTRUC",
+            "AJMERA",
+            "HIMATSEIDE",
+            "AARVEEDEN",
+            "PREMIERPOL",
+            "ANANTRAJ",
+            "SYRMA",
+            "SALZERELEC",
+            "IGARASHI",
+            "PPLPHARMA",
+            "ADFFOODS",
+            "IEL",
+            "KELLTONTEC",
+            "MUNJALAU",
+            "SAH",
+            "DIACABS",
+            "DCMSHRIRAM",
+            "MKPL",
+            "MASTEK",
+            "ORCHPHARMA",
+            "BSE",
+            "AEROFLEX",
+            "CDSL",
+            "GANGESSECU",
+            "VPRPL",
+            "PALASHSECU",
+            "DIXON",
+            "CAPLIPOINT",
+            "EMSLIMITED",
+            "SERVOTECH",
+            "LEXUS",
+            "GANDHAR",
+            "GOLDIAM",
+            "63MOONS",
+            "RBZJEWEL",
+            "JUBLPHARMA",
+            "ASTRON",
+            "PRIVISCL",
+            "RPTECH",
+            "KBCGLOBAL",
+            "PLATIND",
+            "MUKKA",
+            "RPPL",
+            "MANORAMA",
+            "SILGO",
+            "PANACEABIO",
+            "CHOICEIN",
+            "RITCO",
+            "SHAKTIPUMP",
+            "GALAPREC",
+            "NEOGEN",
+            "PAR",
+            "BHAGCHEM",
+            "SUMICHEM",
+            "ADROITINFO",
+            "UTIAMC",
+            "GMDCLTD",
+            "NATIONALUM",
+            "WOCKPHARMA",
+            "SHREERAMA",
+            "AKSHOPTFBR",
+            "MEGASOFT",
+            "GRANULES",
+            "POKARNA",
+            "BAGFILMS",
+            "HTMEDIA",
+            "KERNEX",
+            "NITCO",
+            "DEEPINDS",
+            "PARSVNATH",
+            "REDINGTON",
+            "CAMLINFINE",
+            "SRHHYPOLTD",
+            "HILTON",
+            "OMAXE",
+            "PURVA",
+            "MOTILALOFS",
+            "DHANI",
+            "EMMBI",
+            "WABAG",
+            "ASHOKA",
+            "ZEELEARN",
+            "BFINVEST",
+            "ZENTEC",
+            "RUSHIL",
+            "INDIGOPNTS",
+            "HERANBA",
+            "VIJAYA",
+            "SKIPPER",
+            "DATAPATTNS",
+            "ARVSMART",
+            "BEARDSELL",
+            "PRECAM",
+            "PDMJEPAPER",
+            "INFIBEAM",
+            "THYROCARE",
+            "COMSYN",
+            "BLS"
+        ]
+    },
+    {
+        "Date": "2024-10-29",
+        "Stock": [
+            "SHIVATEX",
+            "TIRUPATIFL",
+            "ICEMAKE",
+            "SUPREMEENG",
+            "HDIL"
+        ]
+    },
+    {
+        "Date": "2024-10-30",
+        "Stock": [
+            "PILITA",
+            "ORBTEXP",
+            "PENIND",
+            "GANECOS",
+            "CLSEL",
+            "ATALREAL"
+        ]
+    },
+    {
+        "Date": "2024-10-31",
+        "Stock": [
+            "TAINWALCHM",
+            "GAYAHWS",
+            "INDIGOPNTS"
+        ]
+    },
+    {
+        "Date": "2024-11-01",
+        "Stock": [
+            "BOROLTD",
+            "GENESYS",
+            "PCBL",
+            "MAHESHWARI",
+            "DHRUV",
+            "GODIGIT",
+            "CGCL",
+            "MUFIN",
+            "INDRAMEDCO",
+            "XCHANGING",
+            "IRB",
+            "INVENTURE",
+            "JTLIND"
+        ]
+    },
+    {
+        "Date": "2024-11-04",
+        "Stock": [
+            "FCONSUMER"
+        ]
+    },
+    {
+        "Date": "2024-11-05",
+        "Stock": [
+            "IFCI",
+            "EIDPARRY",
+            "AGI",
+            "KIRLOSBROS",
+            "NIITLTD",
+            "INDHOTEL",
+            "SHAILY",
+            "PENINLAND",
+            "SWANENERGY",
+            "NELCO",
+            "COROMANDEL",
+            "IGARASHI",
+            "NFL",
+            "KIOCL",
+            "PREMEXPLN",
+            "GANESHHOUC",
+            "PATINTLOG",
+            "NRBBEARING",
+            "GRANULES",
+            "NDTV",
+            "KERNEX",
+            "EMBDL",
+            "ARIES",
+            "GOKULAGRO"
+        ]
+    },
+    {
+        "Date": "2024-11-06",
+        "Stock": [
+            "KITEX",
+            "ATALREAL"
+        ]
+    },
+    {
+        "Date": "2024-11-07",
+        "Stock": [
+            "SHARDACROP"
+        ]
+    },
+    {
+        "Date": "2024-11-08",
+        "Stock": [
+            "KCP",
+            "NIITLTD",
+            "STEELCITY",
+            "ORIENTTECH",
+            "PREMIERENE",
+            "SHREERAMA",
+            "CROMPTON"
+        ]
+    },
+    {
+        "Date": "2024-11-11",
+        "Stock": [
+            "AMJLAND",
+            "TAINWALCHM",
+            "IEL",
+            "TRANSWORLD",
+            "63MOONS",
+            "STERTOOLS",
+            "ENERGYDEV",
+            "NAUKRI",
+            "CCCL",
+            "LODHA"
+        ]
+    },
+    {
+        "Date": "2024-11-12",
+        "Stock": [
+            "WINDMACHIN",
+            "AMBICAAGAR",
+            "MARKSANS"
+        ]
+    },
+    {
+        "Date": "2024-11-13",
+        "Stock": [
+            "MAHESHWARI"
+        ]
+    },
+    {
+        "Date": "2024-11-14",
+        "Stock": [
+            "BANCOINDIA",
+            "BBOX",
+            "GRWRHITECH",
+            "TALBROAUTO",
+            "TAINWALCHM",
+            "JAYSREETEA",
+            "GANECOS",
+            "IEL",
+            "DCMSHRIRAM",
+            "NEULANDLAB",
+            "RATNAVEER",
+            "JLHL",
+            "ZAGGLE",
+            "DCAL",
+            "FILATEX",
+            "STYLAMIND",
+            "SANDHAR",
+            "SHILPAMED",
+            "STERTOOLS",
+            "DEEDEV",
+            "ORIENTTECH",
+            "BIOCON",
+            "UNOMINDA",
+            "CAMLINFINE",
+            "FORTIS",
+            "CCCL",
+            "KIRIINDUS",
+            "SUMMITSEC",
+            "YAARI",
+            "ZUARI",
+            "LODHA",
+            "MAFANG",
+            "POLICYBZR"
+        ]
+    },
+    {
+        "Date": "2024-11-18",
+        "Stock": [
+            "GFLLIMITED",
+            "PHOENIXLTD",
+            "AVONMORE",
+            "DPSCLTD",
+            "DYCL",
+            "ADROITINFO",
+            "TARIL",
+            "GPTINFRA",
+            "CROMPTON"
+        ]
+    },
+    {
+        "Date": "2024-11-19",
+        "Stock": [
+            "SEQUENT",
+            "STAR",
+            "TCS",
+            "CIGNITITEC"
+        ]
+    },
+    {
+        "Date": "2024-11-21",
+        "Stock": [
+            "GARFIBRES",
+            "AVONMORE",
+            "VIMTALABS",
+            "INNOVACAP"
+        ]
+    },
+    {
+        "Date": "2024-11-22",
+        "Stock": [
+            "LORDSCHLO",
+            "BIRLACORPN",
+            "HIRECT",
+            "SDBL",
+            "RATNAVEER",
+            "MCL",
+            "MUFIN",
+            "SINDHUTRAD",
+            "ADROITINFO",
+            "ENERGYDEV",
+            "NSIL",
+            "VIPCLOTHNG",
+            "INDOTECH",
+            "GMRAIRPORT",
+            "PFC",
+            "STOVEKRAFT"
+        ]
+    },
+    {
+        "Date": "2024-11-25",
+        "Stock": [
+            "KITEX",
+            "STERTOOLS",
+            "MBECL",
+            "SHIVAMAUTO",
+            "IDEA",
+            "ALIVUS"
+        ]
+    },
+    {
+        "Date": "2024-11-26",
+        "Stock": [
+            "PIXTRANS",
+            "PENIND",
+            "STAR",
+            "CAMLINFINE"
+        ]
+    },
+    {
+        "Date": "2024-11-27",
+        "Stock": [
+            "GRWRHITECH",
+            "ELECON",
+            "MCL",
+            "ATGL",
+            "AARTECH",
+            "VCL",
+            "VIPCLOTHNG",
+            "VIJIFIN"
+        ]
+    },
+    {
+        "Date": "2024-11-28",
+        "Stock": [
+            "JAGSNPHARM",
+            "JINDRILL",
+            "BAIDFIN",
+            "DCAL",
+            "ANUP",
+            "INDOCO",
+            "CARTRADE"
+        ]
+    },
+    {
+        "Date": "2024-11-29",
+        "Stock": [
+            "RUBYMILLS",
+            "3PLAND",
+            "ERIS",
+            "SHREERAMA",
+            "IZMO",
+            "DHANI"
+        ]
+    },
+    {
+        "Date": "2024-12-02",
+        "Stock": [
+            "ROLTA",
+            "TEXINFRA",
+            "PAKKA",
+            "MINDTECK",
+            "SURANAT&P",
+            "DNAMEDIA",
+            "MITTAL",
+            "LATTEYS",
+            "AWFIS",
+            "NILASPACES",
+            "SWIGGY",
+            "JPASSOCIAT",
+            "RCOM",
+            "RPOWER",
+            "GOENKA"
+        ]
+    },
+    {
+        "Date": "2024-12-03",
+        "Stock": [
+            "DYCL",
+            "PARACABLES",
+            "INDSWFTLAB"
+        ]
+    },
+    {
+        "Date": "2024-12-04",
+        "Stock": [
+            "ANSALAPI",
+            "SHALPAINTS",
+            "GILLANDERS",
+            "MALUPAPER",
+            "CIGNITITEC"
+        ]
+    },
+    {
+        "Date": "2024-12-05",
+        "Stock": [
+            "DELTAMAGNT",
+            "INOXGREEN",
+            "EMSLIMITED",
+            "INNOVACAP",
+            "ARKADE",
+            "AIIL"
+        ]
+    },
+    {
+        "Date": "2024-12-06",
+        "Stock": [
+            "SIYSIL",
+            "NELCO",
+            "DMCC",
+            "WALCHANNAG",
+            "FIBERWEB",
+            "INDOUS",
+            "NTPCGREEN",
+            "RAMCOSYS",
+            "KERNEX",
+            "GEECEE",
+            "BIRLAMONEY",
+            "MONQ50"
+        ]
+    },
+    {
+        "Date": "2024-12-09",
+        "Stock": [
+            "MANGLMCEM",
+            "AYMSYNTEX",
+            "HEG",
+            "MEDICO",
+            "MITTAL",
+            "SKYGOLD",
+            "CAMS"
+        ]
+    },
+    {
+        "Date": "2024-12-10",
+        "Stock": [
+            "SPMLINFRA",
+            "MOHITIND",
+            "GILLANDERS"
+        ]
+    },
+    {
+        "Date": "2024-12-11",
+        "Stock": [
+            "ZODIACLOTH",
+            "INDSWFTLTD",
+            "ASIANENE",
+            "DBEIL",
+            "NECLIFE",
+            "SAMPANN",
+            "CIGNITITEC"
+        ]
+    },
+    {
+        "Date": "2024-12-12",
+        "Stock": [
+            "UMANGDAIRY",
+            "ITI",
+            "SHIVAMAUTO",
+            "ATALREAL"
+        ]
+    },
+    {
+        "Date": "2024-12-13",
+        "Stock": [
+            "JISLDVREQS",
+            "BEPL",
+            "NAHARSPING",
+            "BBOX",
+            "HEG",
+            "VAKRANGEE",
+            "ORBTEXP",
+            "BSL",
+            "MADHAV",
+            "KELLTONTEC",
+            "GUJRAFFIA",
+            "ZAGGLE",
+            "DCAL",
+            "DNAMEDIA",
+            "SIL",
+            "INDOUS",
+            "PARACABLES",
+            "SKYGOLD",
+            "EIEL",
+            "JINDALPHOT",
+            "BLKASHYAP",
+            "EMMBI",
+            "A2ZINFRA",
+            "TDPOWERSYS",
+            "SAMPANN",
+            "DRCSYSTEMS",
+            "SUVIDHAA",
+            "LUXIND"
+        ]
+    },
+    {
+        "Date": "2024-12-16",
+        "Stock": [
+            "ORIENTCER",
+            "MCLEODRUSS",
+            "CELEBRITY",
+            "BIRLAMONEY",
+            "EMAMIPAP",
+            "ESSENTIA",
+            "MANAKCOAT",
+            "BAJAJHCARE"
+        ]
+    },
+    {
+        "Date": "2024-12-17",
+        "Stock": [
+            "INDSWFTLTD",
+            "MOHITIND",
+            "BLACKBUCK"
+        ]
+    },
+    {
+        "Date": "2024-12-18",
+        "Stock": [
+            "PEARLPOLY",
+            "JETFREIGHT",
+            "MCL",
+            "RVHL",
+            "PDMJEPAPER",
+            "COMSYN"
+        ]
+    },
+    {
+        "Date": "2024-12-19",
+        "Stock": [
+            "MODISONLTD",
+            "DONEAR",
+            "WEBELSOLAR",
+            "DCXINDIA",
+            "IOLCP",
+            "ALPHAGEO",
+            "LIBERTSHOE",
+            "KAMATHOTEL",
+            "DYCL",
+            "SOUTHWEST",
+            "GOYALALUM",
+            "SRM",
+            "ORIENTTECH",
+            "TNPL",
+            "SHAKTIPUMP",
+            "MGEL",
+            "EIEL",
+            "SOMICONVEY",
+            "EMAMIPAP"
+        ]
+    },
+    {
+        "Date": "2024-12-20",
+        "Stock": [
+            "SETCO",
+            "SAMBHAAV",
+            "REPL",
+            "A2ZINFRA"
+        ]
+    },
+    {
+        "Date": "2024-12-23",
+        "Stock": [
+            "BLUESTARCO",
+            "SUNDARMFIN",
+            "TRENT",
+            "SURYAROSNI",
+            "HARRMALAYA",
+            "BAJAJHLDNG",
+            "HINDMOTORS",
+            "M&M",
+            "GRWRHITECH",
+            "CEATLTD",
+            "UNIVCABLES",
+            "ARIHANTSUP",
+            "HYBRIDFIN",
+            "SHALPAINTS",
+            "MURUDCERA",
+            "SURANAT&P",
+            "SINCLAIR",
+            "VIMTALABS",
+            "CAPLIPOINT",
+            "STARCEMENT",
+            "AIROLAM",
+            "SHAREINDIA",
+            "INNOVACAP",
+            "DNAMEDIA",
+            "SHIVAMILLS",
+            "HGINFRA",
+            "SRM",
+            "AARON",
+            "MON100",
+            "INTERARCH",
+            "NIVABUPA",
+            "J&KBANK",
+            "TCI",
+            "TRIVENI",
+            "OFSS",
+            "TIMETECHNO",
+            "V2RETAIL",
+            "HMVL",
+            "CANTABIL",
+            "PGEL",
+            "NECCLTD",
+            "JUBLINGREA",
+            "CRAFTSMAN",
+            "MAFANG",
+            "PAYTM",
+            "BAJAJHCARE",
+            "MGL",
+            "RBLBANK"
+        ]
+    },
+    {
+        "Date": "2024-12-24",
+        "Stock": [
+            "ORIENTCER",
+            "AVONMORE",
+            "DIGISPICE",
+            "TIPSFILMS",
+            "ORCHPHARMA",
+            "SHRENIK",
+            "GODHA",
+            "TEMBO",
+            "TAJGVK",
+            "ASHOKA"
+        ]
+    },
+    {
+        "Date": "2024-12-26",
+        "Stock": [
+            "MEDICO",
+            "NARMADA",
+            "INDOUS",
+            "INTELLECT",
+            "MANAKALUCO"
+        ]
+    },
+    {
+        "Date": "2024-12-27",
+        "Stock": [
+            "HARRMALAYA",
+            "GREAVESCOT",
+            "VAKRANGEE",
+            "PVP",
+            "SARLAPOLY",
+            "VIPCLOTHNG",
+            "SOMICONVEY"
+        ]
+    },
+    {
+        "Date": "2024-12-30",
+        "Stock": [
+            "SUNFLAG",
+            "DONEAR",
+            "BSE",
+            "FOCUS",
+            "NEWGEN",
+            "SIGNPOST",
+            "PARACABLES",
+            "KRIDHANINF"
+        ]
+    },
+    {
+        "Date": "2024-12-31",
+        "Stock": [
+            "DCM",
+            "SWANENERGY",
+            "SETCO",
+            "AMNPLST",
+            "COSMOFIRST",
+            "HEG",
+            "ROTO",
+            "SURANAT&P",
+            "WINDMACHIN",
+            "SINCLAIR",
+            "KIOCL",
+            "LASA",
+            "MAXESTATES",
+            "AIRAN",
+            "GOLDIAM",
+            "LATTEYS",
+            "ACCURACY",
+            "RITES",
+            "SHAKTIPUMP",
+            "VCL",
+            "EIEL",
+            "SBGLP",
+            "AKSHOPTFBR",
+            "CENTURYPLY",
+            "CAMLINFINE",
+            "HILTON",
+            "RPOWER",
+            "MOIL",
+            "A2ZINFRA",
+            "LATENTVIEW"
+        ]
+    },
+    {
+        "Date": "2025-01-01",
+        "Stock": [
+            "LCCINFOTEC",
+            "MAZDA",
+            "AUBANK",
+            "JSFB",
+            "GANGAFORGE",
+            "MEP",
+            "COFFEEDAY"
+        ]
+    },
+    {
+        "Date": "2025-01-03",
+        "Stock": [
+            "BAJAJHCARE"
+        ]
+    },
+    {
+        "Date": "2025-01-07",
+        "Stock": [
+            "SHAILY",
+            "SHALPAINTS",
+            "MAZDA",
+            "ASHAPURMIN",
+            "ARMANFIN",
+            "REDINGTON",
+            "EMBDL"
+        ]
+    },
+    {
+        "Date": "2025-01-09",
+        "Stock": [
+            "EQUITASBNK",
+            "NURECA"
+        ]
+    },
+    {
+        "Date": "2025-01-10",
+        "Stock": [
+            "MAZDA"
+        ]
+    },
+    {
+        "Date": "2025-01-13",
+        "Stock": [
+            "CLEDUCATE",
+            "APOLLO",
+            "XTGLOBAL",
+            "KRN",
+            "INDUSINDBK",
+            "INDUSTOWER",
+            "EXXARO"
+        ]
+    },
+    {
+        "Date": "2025-01-14",
+        "Stock": [
+            "SPIC",
+            "CHAMBLFERT",
+            "IDBI",
+            "HINDZINC",
+            "JISLJALEQS",
+            "PILITA",
+            "ESCORTS",
+            "GESHIP",
+            "GSFC",
+            "RELTD",
+            "PRAKASH",
+            "ARIHANTSUP",
+            "JAGSNPHARM",
+            "SATINDLTD",
+            "PARADEEP",
+            "GUJAPOLLO",
+            "MAHEPC",
+            "AEROFLEX",
+            "GANESHHOUC",
+            "ZOTA",
+            "MAHESHWARI",
+            "JASH",
+            "ASHAPURMIN",
+            "MANGCHEFER",
+            "NOVAAGRI",
+            "UDAICEMENT",
+            "BDL",
+            "GANGAFORGE",
+            "IRCON",
+            "ARMANFIN",
+            "MANAPPURAM",
+            "RVNL",
+            "WEL",
+            "KSOLVES",
+            "VMM",
+            "BANKINDIA",
+            "MAZDOCK",
+            "BLBLIMITED",
+            "OLECTRA",
+            "JBMA",
+            "3IINFOLTD",
+            "SOLARINDS",
+            "HUBTOWN",
+            "INDIANB",
+            "EMBDL",
+            "CCCL",
+            "TEXRAIL",
+            "LTF",
+            "NBCC",
+            "PROZONER",
+            "IRFC",
+            "NURECA",
+            "CPSEETF",
+            "MOL",
+            "APTUS",
+            "PARAS",
+            "NYKAA",
+            "MONQ50",
+            "MINDACORP",
+            "MGL",
+            "RADHIKAJWE"
+        ]
+    },
+    {
+        "Date": "2025-01-15",
+        "Stock": [
+            "MEP",
+            "LTTS"
+        ]
+    },
+    {
+        "Date": "2025-01-16",
+        "Stock": [
+            "IDBI",
+            "OLECTRA"
+        ]
+    },
+    {
+        "Date": "2025-01-17",
+        "Stock": [
+            "JBMA",
+            "NURECA"
+        ]
+    },
+    {
+        "Date": "2025-01-20",
+        "Stock": [
+            "OILCOUNTUB",
+            "CUBEXTUB",
+            "REDINGTON"
+        ]
+    },
+    {
+        "Date": "2025-01-22",
+        "Stock": [
+            "JAGSNPHARM",
+            "JAIPURKURT",
+            "JSFB",
+            "IDEA"
+        ]
+    },
+    {
+        "Date": "2025-01-23",
+        "Stock": [
+            "HINDOILEXP",
+            "CLEDUCATE",
+            "INDSWFTLAB",
+            "EMBDL",
+            "CCCL",
+            "GLOBUSSPR"
+        ]
+    },
+    {
+        "Date": "2025-01-24",
+        "Stock": [
+            "SHIVATEX",
+            "MBAPL"
+        ]
+    },
+    {
+        "Date": "2025-01-27",
+        "Stock": [
+            "IDBI",
+            "CREDITACC",
+            "GRMOVER",
+            "CARTRADE"
+        ]
+    },
+    {
+        "Date": "2025-01-28",
+        "Stock": [
+            "RAMANEWS",
+            "RELTD",
+            "JAGSNPHARM",
+            "CHOLAFIN",
+            "VERANDA",
+            "AUBANK",
+            "NACLIND",
+            "KRISHANA",
+            "GANESHHOUC",
+            "NOVAAGRI",
+            "JSFB",
+            "ARMANFIN",
+            "KRN",
+            "MAZDOCK",
+            "TRANSRAILL",
+            "AXISCADES",
+            "POKARNA",
+            "M&MFIN",
+            "DEEPINDS",
+            "IDEA",
+            "KIRIINDUS",
+            "VSSL",
+            "APTUS",
+            "BAJAJHCARE",
+            "RBLBANK"
+        ]
+    },
+    {
+        "Date": "2025-01-29",
+        "Stock": [
+            "IDBI",
+            "HEIDELBERG",
+            "ZENSARTECH",
+            "FMGOETZE",
+            "ASALCBR",
+            "AVONMORE",
+            "GULPOLY",
+            "CLEDUCATE",
+            "AGROPHOS",
+            "DHRUV",
+            "VASWANI"
+        ]
+    },
+    {
+        "Date": "2025-01-30",
+        "Stock": [
+            "KHADIM"
+        ]
+    },
+    {
+        "Date": "2025-01-31",
+        "Stock": [
+            "GULPOLY",
+            "DHRUV",
+            "KRN"
+        ]
+    },
+    {
+        "Date": "2025-02-03",
+        "Stock": [
+            "HOMEFIRST"
+        ]
+    },
+    {
+        "Date": "2025-02-04",
+        "Stock": [
+            "RCOM",
+            "FSL",
+            "FMNL"
+        ]
+    },
+    {
+        "Date": "2025-02-06",
+        "Stock": [
+            "KRN",
+            "TAJGVK"
+        ]
+    },
+    {
+        "Date": "2025-02-07",
+        "Stock": [
+            "VOLTAS",
+            "CMSINFO"
+        ]
+    },
+    {
+        "Date": "2025-02-10",
+        "Stock": [
+            "GRWRHITECH"
+        ]
+    },
+    {
+        "Date": "2025-02-11",
+        "Stock": [
+            "SHREEPUSHK"
+        ]
+    },
+    {
+        "Date": "2025-02-12",
+        "Stock": [
+            "GODFRYPHLP"
+        ]
+    },
+    {
+        "Date": "2025-02-14",
+        "Stock": [
+            "GODFRYPHLP",
+            "VIMTALABS",
+            "MAHKTECH"
+        ]
+    },
+    {
+        "Date": "2025-02-17",
+        "Stock": [
+            "FORCEMOT",
+            "CASTROLIND",
+            "EMUDHRA",
+            "ONWARDTEC",
+            "AJOONI",
+            "REMSONSIND",
+            "MEDICAMEQ",
+            "MANAPPURAM",
+            "IKS",
+            "CAMLINFINE",
+            "CORDSCABLE",
+            "PGEL",
+            "SHREEPUSHK",
+            "INDIGO"
+        ]
+    },
+    {
+        "Date": "2025-02-18",
+        "Stock": [
+            "AVL",
+            "AXISCADES"
+        ]
+    },
+    {
+        "Date": "2025-02-19",
+        "Stock": [
+            "AEGISLOG",
+            "GRWRHITECH",
+            "TCPLPACK",
+            "IKIO",
+            "NITIRAJ",
+            "KAMATHOTEL",
+            "REDINGTON",
+            "CAMLINFINE",
+            "CORDSCABLE",
+            "PGEL",
+            "SHREEPUSHK"
+        ]
+    },
+    {
+        "Date": "2025-02-21",
+        "Stock": [
+            "AEGISLOG",
+            "MAHKTECH"
+        ]
+    },
+    {
+        "Date": "2025-02-24",
+        "Stock": [
+            "SILGO"
+        ]
+    },
+    {
+        "Date": "2025-02-25",
+        "Stock": [
+            "IKIO",
+            "TRU",
+            "THANGAMAYL"
+        ]
+    },
+    {
+        "Date": "2025-03-03",
+        "Stock": [
+            "ABB",
+            "BAJAJHIND",
+            "SPIC",
+            "KCP",
+            "CRISIL",
+            "BHEL",
+            "HINDPETRO",
+            "CHENNPETRO",
+            "LICHSGFIN",
+            "PEL",
+            "SURYAROSNI",
+            "RAIN",
+            "JKLAKSHMI",
+            "CUMMINSIND",
+            "M&M",
+            "BPCL",
+            "GESHIP",
+            "GRWRHITECH",
+            "GLAXO",
+            "GNFC",
+            "EIHOTEL",
+            "APOLLOTYRE",
+            "BBTC",
+            "GREAVESCOT",
+            "KESORAMIND",
+            "BBL",
+            "TEXINFRA",
+            "WESTLIFE",
+            "IFBIND",
+            "FOODSIN",
+            "HUHTAMAKI",
+            "SUPREMEIND",
+            "RAINBOW",
+            "AVANTIFEED",
+            "SBCL",
+            "PARADEEP",
+            "AJMERA",
+            "HIMATSEIDE",
+            "WELSPUNLIV",
+            "VISHNU",
+            "SYMPHONY",
+            "PPLPHARMA",
+            "MEDANTA",
+            "AVTNPL",
+            "ELIN",
+            "HERITGFOOD",
+            "PARASPETRO",
+            "WINDMACHIN",
+            "BLAL",
+            "BALMLAWRIE",
+            "MAWANASUG",
+            "DREDGECORP",
+            "NFL",
+            "AARTIIND",
+            "DPSCLTD",
+            "YATHARTH",
+            "CONCORDBIO",
+            "HUDCO",
+            "TEJASNET",
+            "APEX",
+            "HITECH",
+            "NATCOPHARM",
+            "DCAL",
+            "NITIRAJ",
+            "BLUEJET",
+            "TIINDIA",
+            "NIACL",
+            "LAOPALA",
+            "SIL",
+            "SANGHVIMOV",
+            "NEWGEN",
+            "SELAN",
+            "AMBER",
+            "JSFB",
+            "HGINFRA",
+            "SUVEN",
+            "BDL",
+            "SUNDARMHLD",
+            "HAL",
+            "LEMONTREE",
+            "E2E",
+            "ACCURACY",
+            "SKYGOLD",
+            "HNGSNGBEES",
+            "KPITTECH",
+            "MANBA",
+            "KRN",
+            "AFFLE",
+            "SURAKSHA",
+            "ROSSARI",
+            "SAREGAMA",
+            "SANATHAN",
+            "SONATSOFTW",
+            "TVSMOTOR",
+            "TAJGVK",
+            "GRANULES",
+            "CANBK",
+            "BIOCON",
+            "JPASSOCIAT",
+            "ULTRACEMCO",
+            "TCS",
+            "JBMA",
+            "CIEINDIA",
+            "TORNTPOWER",
+            "REDINGTON",
+            "FSL",
+            "PFC",
+            "ORIENTALTL",
+            "CAMLINFINE",
+            "RECLTD",
+            "ISGEC",
+            "EXCEL",
+            "GOENKA",
+            "GPPL",
+            "RPPINFRA",
+            "MOIL",
+            "TEXRAIL",
+            "LTF",
+            "BROOKS",
+            "APLLTD",
+            "NBCC",
+            "SPECIALITY",
+            "INDUSTOWER",
+            "BARBEQUE",
+            "ZOMATO",
+            "ALIVUS",
+            "WINDLAS",
+            "MOL",
+            "SIKKO",
+            "VIJAYA",
+            "MASPTOP50",
+            "SHARDACROP",
+            "METROBRAND",
+            "MONQ50",
+            "MINDACORP",
+            "AIIL",
+            "NAVKARCORP",
+            "SHREEPUSHK",
+            "COFFEEDAY",
+            "NH",
+            "ADVENZYMES"
+        ]
+    },
+    {
+        "Date": "2025-03-04",
+        "Stock": [
+            "NIITLTD",
+            "RALLIS",
+            "HINDMOTORS",
+            "WALCHANNAG",
+            "COSMOFIRST",
+            "VERANDA",
+            "PREMIERPOL",
+            "ASAL",
+            "ALOKINDS",
+            "DCMSHRIRAM",
+            "DVL",
+            "WANBURY",
+            "BCLIND",
+            "VIMTALABS",
+            "LASA",
+            "JASH",
+            "RBZJEWEL",
+            "JYOTICNC",
+            "AHLADA",
+            "GODIGIT",
+            "PRAENG",
+            "RAMCOSYS",
+            "MPSLTD",
+            "CELEBRITY",
+            "PGIL",
+            "TARIL",
+            "INDTERRAIN",
+            "PCJEWELLER",
+            "EPIGRAL",
+            "SKIPPER",
+            "VINCOFE",
+            "MANAKALUCO",
+            "AURUM",
+            "BLS"
+        ]
+    }
+]
